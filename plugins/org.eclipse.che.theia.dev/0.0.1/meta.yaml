@@ -1,4 +1,4 @@
-id: che-theia-dev-plugin
+id: org.eclipse.che.theia.dev
 version: 0.0.1
 type: Che Plugin
 name: Che/Theia development
