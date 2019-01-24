@@ -1,9 +1,9 @@
-id: org.eclipse.che.vscode-sonarlint
+id: org.eclipse.che.vscode-camel
 version: 0.0.1
 type: VS Code extension
-name: vscode-sonarlint
+name: vscode-camel
 title: Sonarlint code intelligence
-description: VS Code extension that provides sonarlint features
+description: VS Code extension that provides Apache Camel features
 icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
 attributes:
   extension: "vscode:extension/camel-tooling.vscode-apache-camel"
