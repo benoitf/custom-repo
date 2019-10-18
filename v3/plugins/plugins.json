@@ -1,0 +1,14 @@
+[
+  {
+    "id": "benoitf/hello-world",
+    "displayName": "Hello World Frontend Plugin",
+    "version": "0.0.1",
+    "type": "Theia plugin",
+    "name": "hello-world-frontend-plugin",
+    "description": "Hello-World frontend plugin example for Theia.",
+    "publisher": "eclipse-che",
+    "links": {
+      "self": "/benoitf/custom-repo/v3/plugins/redhat/java11/0.46.0-PR457/meta.yaml"
+    }
+  }
+]
